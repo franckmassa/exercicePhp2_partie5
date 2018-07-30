@@ -20,6 +20,7 @@ $months [9] = 'sepetembre';
 $months [10] = 'octobre';
 $months [11] = 'novembre';
 $months [12] = 'décembre';
+//Affichage de la ligne 3
 echo $months [3];
  ?>
 </p>
